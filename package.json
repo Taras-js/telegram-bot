@@ -1,0 +1,12 @@
+{
+  "name": "telegramm-bot",
+  "version": "1.0.0",
+  "description": "telegram, bot, node.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon insdex.js",
+    "start": "node index.js"
+  },
+  "author": "Taras Schevchenko <shev-taras@ys.ru>",
+  "license": "ISC"
+}
