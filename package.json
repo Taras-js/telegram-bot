@@ -8,5 +8,9 @@
     "start": "node index.js"
   },
   "author": "Taras Schevchenko <shev-taras@ys.ru>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.57.0",
+    "nodemon": "^2.0.16"
+  }
 }
